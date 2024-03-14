@@ -1,0 +1,61 @@
+header{
+    background-color: navy;
+}
+.heading{
+    display: inline;
+   color: white;
+   margin-left: 20px;
+   padding-bottom: 60px;
+}
+.list{
+    list-style: none;
+    color: white;
+    display: inline-block;
+    margin-left: 600px;
+}
+.list li a{
+    display:  inline-block;
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+}
+.list li{
+    display: inline-block
+    
+}
+header nav img{
+    padding: 10px;
+    display: inline-block;
+}
+.backImgDesign {
+   
+    background-attachment: fixed;
+    background-size: cover;
+    color: white; 
+    background-position:  center;
+    height: 100vh;
+    background-image: url(download.jpg);
+}
+.ImgDesign {
+    
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    background-position:  center;
+    height: 100vh;
+    background-image: url(images.jpg);
+}
+.ImgDesign1 {
+    
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    background-position:  center;
+    height: 100vh;
+    background-image: url(images\ \(1\).jpg);
+}
+
+    
+
+
+
