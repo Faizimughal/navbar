@@ -54,6 +54,15 @@ header nav img{
     height: 100vh;
     background-image: url(images\ \(1\).jpg);
 }
+.ImgDesign2 {
+    
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    background-position:  center;
+    height: 100vh;
+    background-image: url(download\ \(1\).jpg);
+}
 
     
 
